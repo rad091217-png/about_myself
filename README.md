@@ -8,5 +8,5 @@
 使用した技術
 HTML
 CSS 
-Ruby version 2.7.2
-Ruby On Rails 
+Ruby 2.7.2
+Ruby On Rails 6.0.3.7
