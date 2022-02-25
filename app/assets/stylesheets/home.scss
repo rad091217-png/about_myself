@@ -1,9 +1,40 @@
 // Place all the styles related to the home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
-.wrap_original {
-    overflow: hidden;
-    .jumbotron.jumbotron-fluid{
+@media screen and (min-width: 993px) {
+    .wrap_original {
+        overflow: hidden;
+    }
+    .jumbotron.jumbotron-fluid {
         margin: 15px;
+        img {
+            max-width: 100%;
+            height: auto;
+        }
     }
+}
+
+@media screen and (max-width: 992px) {
+    .wrap_original {
+        overflow: hidden;
     }
+    .jumbotron.jumbotron-fluid {
+        margin: 15px;
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    }
+}
+@media screen and (max-width: 576px) {
+    .wrap_original {
+        overflow: hidden;
+    }
+    .jumbotron.jumbotron-fluid {
+        margin: 15px;
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    }
+}
