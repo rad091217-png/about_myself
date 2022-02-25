@@ -8,5 +8,6 @@
 使用した技術
 HTML
 CSS 
+bootstrap
 Ruby 2.7.2
 Ruby On Rails 6.0.3.7
