@@ -1,24 +1,12 @@
-# README
+自分の自己紹介について作った
+ヨーロッパサッカー掲示板と遊戯王マスターデュエルについて
+書いたものです。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+作成期間としましては6時間程でほぼ完成させまして
+その後はちょっとした修正を繰り返しました。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+使用した技術
+HTML
+CSS 
+Ruby version 2.7.2
+Ruby On Rails 
